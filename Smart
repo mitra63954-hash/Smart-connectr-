@@ -52,5 +52,11 @@
         "key": "d7",
         "expirydate": "21-06-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "d1563130431260be",
+        "key": "d8",
+        "expirydate": "11-06-2026",
+        "Allowoffline": false
     }
 ]
