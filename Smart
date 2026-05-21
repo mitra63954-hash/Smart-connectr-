@@ -41,7 +41,7 @@
         "expirydate": "06-06-2026",
         "Allowoffline": false
     },
-  {
+{
         "device_id": "7266da96c685ad5c",
         "key": "d6",
         "expirydate": "20-06-2026",
@@ -82,7 +82,8 @@
         "key": "d12",
         "expirydate": "21-06-2026",
         "Allowoffline": false
-    },{
+    },
+{
         "device_id": "b67aaf675f9ec8eb",
         "key": "d13",
         "expirydate": "21-06-2026",
